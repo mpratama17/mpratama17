@@ -1,5 +1,4 @@
-### Hi there 👋
-Here are some ideas to get you started:
+Hallo👋
 
 - 🔭 I’m currently study on UIN Maulana Malik Ibrahim Malang
 - 🌱 I’m currently learning Flutter
