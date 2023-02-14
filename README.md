@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently study on UIN Maulana Malik Ibrahim Malang
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
       instagram.com/mpratama17
       linkedin.com/in/mpratama17
 
--->
+
